@@ -1,5 +1,7 @@
 # Run-Length-Encoding
 
+Simple RLE build to help the understanding of the algorithm
+
 ## Usage
 
 ```bash
