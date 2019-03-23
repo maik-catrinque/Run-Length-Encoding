@@ -13,5 +13,5 @@ optional arguments:
   -e, --encode          Indicate to encode the file
   -d, --decode          Indicate to decode the file
 ```
-The output file will be <filename>.encoded or <filename>.decoded
+The output file will be `<filename>.encoded` or `<filename>.decoded`
 
